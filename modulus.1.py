@@ -1,4 +1,4 @@
-# include ef modulus(num1, num2):
+# include def modulus(num1, num2):
     if num2 == 0:
         return "Error: Cannot divide by zero"
     return num1 % num2
